@@ -9,7 +9,7 @@
     ],
     "website": "https://t.me/Techyy_TechyHarsith",
     "repository": "https://github.com/AsmSafone/MegaDL-Bot",
-    "success_url": "https://t.me/AsmSafone",
+    "success_url": "https://t.me/Techyy_TechyHarsith",
     "env": {
         "API_ID": {
             "description": "Your API_ID from my.telegram.org",
